@@ -59,5 +59,3 @@ GameDevs Community Server: https://discord.gg/JhW5h7Yv
 ## Authors
 
 - [@Hex](https://www.github.com/hextv)
-
-    This is an official program for the GameDevs Community
