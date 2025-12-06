@@ -51,10 +51,10 @@ You can Download it as well here in the "Release" Page.
 The Old Versions are accessible only in the Github "Release" Page, of course not every patch will be available, only the versions with integer numbers, for example, BlpV1 and the newest BlpV2
 ## Support
 
-For support, you can ask in the GameDevs Discord Server or directly Hex_tv#2545
+For support, you can ask in the listed discord server below or directly to message Hex_tv#2545
 
+Hex's Community Server: https://discord.gg/FgmWNvnQed
 GameDevs Community Server: https://discord.gg/JhW5h7Yv
-
 
 ## Authors
 
