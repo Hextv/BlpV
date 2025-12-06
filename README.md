@@ -54,6 +54,7 @@ The Old Versions are accessible only in the Github "Release" Page, of course not
 For support, you can ask in the listed discord server below or directly to message Hex_tv#2545
 
 Hex's Community Server: https://discord.gg/FgmWNvnQed
+
 GameDevs Community Server: https://discord.gg/JhW5h7Yv
 
 ## Authors
